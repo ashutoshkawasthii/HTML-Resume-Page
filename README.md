@@ -13,5 +13,5 @@ This project is a single-page resume website built using pure HTML.
 
 ## How to Run
 Open index.html in any browser.
-![Ashutosh Project SC](<./img9.png>)
-![Ashutosh Project SC](<./img8.png>)
+![alt text](<./img1.png>)
+![alt text](<./img2.png>)
