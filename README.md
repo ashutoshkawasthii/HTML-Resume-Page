@@ -13,5 +13,5 @@ This project is a single-page resume website built using pure HTML.
 
 ## How to Run
 Open index.html in any browser.
-![alt text](<./img1.png>)
-![alt text](<./img2.png>)
+![alt text](<./my1.png>)
+![alt text](<./my2.png>)
